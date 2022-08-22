@@ -3,10 +3,16 @@
 #1.可以更新了！乡亲们！  #
 #2.嗨起来！作者：@阳开蕊 #
 #3.自建服务器：         #
-https://github.com/yangkairuei/yangkairuei.github.io
-#4.GitHub地址：         #
 https://yangkairuei.github.io/
+#4.GitHub地址：         #
+https://github.com/yangkairuei/
 #欢迎合作！             #
 #哔哩哔哩：             #
 https://space.bilibili.com/1123306452
+PS：如果下载卡顿/太慢可以到
+国内：https://yangkairui.lanzouy.com/iRNwF0a0o45e
+国外：https://yangkairuei.github.io/up.zip
+下载更新包，解压替换文件。
+项目已开源，欢迎合作！
+https://github.com/yangkairuei/yangkairuei.github.io
 ########################
