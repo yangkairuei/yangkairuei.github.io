@@ -363,9 +363,3 @@ Markdown Nice 这么好用，简直是{喜大普奔|hē hē hē hē}呀！
 
 不支持，推荐使用开源工具`https://draw.io/`制作后再导入图片
 
-
-## 5 致谢
-
-* 歌词经理 [wechat-fromat](https://github.com/lyricat/wechat-format "灵感来源")
-* 颜家大少 [MD2All](http://md.aclickall.com/ "MdA2All")
-
