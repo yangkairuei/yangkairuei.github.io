@@ -3,26 +3,26 @@ https://yangkairuei.github.io/$---办公类---
 http://xz.w10a.com/small/Office2007_SP3.rar$office2007 3合一精简版
 https://official-package.wpscdn.cn/wps/download/WPS_Setup_12313.exe$WPS office
 https://qd.myapp.com/myapp/qqteam/TencentDocs/Down/TencentDocsSetup.exe$腾讯文档
-
+https://yangkairuei.github.io/$=============
 https://yangkairuei.github.io/$---必备类---
 https://d1.music.126.net/dmusic/NeteaseCloudMusic_Music_official_2.10.3.200198.exe$网易云音乐
 https://www.rarlab.com/rar/winrar-x64-611sc.exe$win rar
 https://cn.bandisoft.com/bandizip/dl.php?web$bandizip
 https://ime.sogouimecdn.com/202209031814/0854029fc94a5948e9df41ef71f9d27a/dl/gzindex/1662029060/sogou_pinyin_guanwang_124b.exe$搜狗输入法
-
+https://yangkairuei.github.io/$=============
 https://yangkairuei.github.io/$---浏览器类---
 https://c2rsetup.edog.officeapps.live.com/c2r/downloadEdge.aspx?platform=Default&source=EdgeInsiderPage&Channel=Beta&language=zh-cn$edge
 https://dl.google.com/tag/s/appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={0E8D9DE2-2EB3-DB77-A86B-38873E124E46}&lang=zh-CN&browser=5&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&ap=x64-stable-statsdef_1&installdataindex=empty/update2/installers/ChromeSetup.exe$谷歌浏览器
 https://down.360safe.com/cse/360csex_setup.exe$360极速浏览器
-
+https://yangkairuei.github.io/$=============
 https://yangkairuei.github.io/$---聊天类---
 https://dldir1.qq.com/qqfile/qq/PCQQ9.6.6/QQ9.6.6.28796.exe$QQ安装包
 https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe$微信安装包
-
+https://yangkairuei.github.io/$=============
 https://yangkairuei.github.io/$---安全类---
 https://down.360safe.com/setupbeta_jisu.exe$360安全卫士极速版
 https://down7.huorong.cn/sysdiag-full-5.0.69.7-2022.9.3.1.exe$火绒安全
-
+https://yangkairuei.github.io/$=============
 https://yangkairuei.github.io/$---工具类---
 https://res.u-tools.cn/version2/uTools-3.0.3.exe$utools
 https://dl-static.iqiyi.com/hz/IQIYIsetup_z42.exe$爱奇艺
@@ -38,7 +38,7 @@ https://file.cdn.cqttech.com/xzdesktop/XZDesktop_4005_3.0.3.36.exe$Mamsds桌面�
 https://down.sandai.net/thunder11/XunLeiWebSetup11.3.14.1952gw.exe$迅雷 
 https://github.com/microsoft/PowerToys/releases/download/v0.61.1/PowerToysSetup-0.61.1-x64.exe$PowerToys
 https://public.ieway.cn/public/download/EVCapture_v4.2.2.exe$免费无水印录屏软件
-
+https://yangkairuei.github.io/$=============
 https://yangkairuei.github.io/$---开发类---
 https://download.oracle.com/java/18/latest/jdk-18_windows-x64_bin.exe$JDK18
 Git$https://github.com/git-for-windows/git/releases/download/v2.37.3.windows.1/Git-2.37.3-64-bit.exe
@@ -51,3 +51,4 @@ https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourceTre
 https://dl.softmgr.qq.com/original/net_app/Xshell6_wm_6.0.0204.exe$Xshell
 https://typora-download.oss-cn-shanghai.aliyuncs.com/windows/typora-setup-x64.exe$Typora	
 https://download.mobatek.net/2212022060563542/MobaXterm_Installer_v22.1.zip$MobaXterm
+https://yangkairuei.github.io/$=============
