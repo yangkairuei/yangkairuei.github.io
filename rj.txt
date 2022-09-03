@@ -1,5 +1,53 @@
+https://blog.csdn.net/WeiHao0240/article/details/103476958$软件为blog.csdn.net/WeiHao0240/article/details/103476958中得到。
+https://yangkairuei.github.io/$---办公类---
 http://xz.w10a.com/small/Office2007_SP3.rar$office2007 3合一精简版
-https://xiazai.zol.com.cn/down.php?softid=433598&subcateid=69&site=10&checkStr=7db7d3ecf3f99a243&pos=detail_local&flag=1&rand=7321fb$edge 安装包
+https://official-package.wpscdn.cn/wps/download/WPS_Setup_12313.exe$WPS office
+https://qd.myapp.com/myapp/qqteam/TencentDocs/Down/TencentDocsSetup.exe$腾讯文档
+
+https://yangkairuei.github.io/$---必备类---
+https://d1.music.126.net/dmusic/NeteaseCloudMusic_Music_official_2.10.3.200198.exe$网易云音乐
+https://www.rarlab.com/rar/winrar-x64-611sc.exe$win rar
+https://cn.bandisoft.com/bandizip/dl.php?web$bandizip
+https://ime.sogouimecdn.com/202209031814/0854029fc94a5948e9df41ef71f9d27a/dl/gzindex/1662029060/sogou_pinyin_guanwang_124b.exe$搜狗输入法
+
+https://yangkairuei.github.io/$---浏览器类---
+https://c2rsetup.edog.officeapps.live.com/c2r/downloadEdge.aspx?platform=Default&source=EdgeInsiderPage&Channel=Beta&language=zh-cn$edge
 https://dl.google.com/tag/s/appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={0E8D9DE2-2EB3-DB77-A86B-38873E124E46}&lang=zh-CN&browser=5&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&ap=x64-stable-statsdef_1&installdataindex=empty/update2/installers/ChromeSetup.exe$谷歌浏览器
+https://down.360safe.com/cse/360csex_setup.exe$360极速浏览器
+
+https://yangkairuei.github.io/$---聊天类---
 https://dldir1.qq.com/qqfile/qq/PCQQ9.6.6/QQ9.6.6.28796.exe$QQ安装包
 https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe$微信安装包
+
+https://yangkairuei.github.io/$---安全类---
+https://down.360safe.com/setupbeta_jisu.exe$360安全卫士极速版
+https://down7.huorong.cn/sysdiag-full-5.0.69.7-2022.9.3.1.exe$火绒安全
+
+https://yangkairuei.github.io/$---工具类---
+https://res.u-tools.cn/version2/uTools-3.0.3.exe$utools
+https://dl-static.iqiyi.com/hz/IQIYIsetup_z42.exe$爱奇艺
+https://ndsv1-1hh6ge0-9c-9c-gr6qvskiiv8acef518e4656141.cdnnode.cn:16885/fs698f85d5.a.bdydns.com/bdydns_6489dfdf78e2bd906c882491b1d34cbf2f25fc8b/BaiduNetdisk_7.19.0.18.exe?MqD7sp=jZqOjI-bwszPz9mGmY-NlsLOz8_ZhpmQj4vCys3G2ZyXmpyUws7IzMrPzcjLyM3ZkZCbmpOJk8LM2YycipabwrqpspmHsZCRu56tmLydu5aIzpmt2ZyTjIuQwsrZi5aSmpCKi8LOycnNzc7KyszM2YaZm4yPi8LOycnNzc_OzszMzMfH&UYs5cp=hpmNmo6Wm8LImpudxsaam8fOmZ6am8_KnpnPyMfGnceeyJucx8ubydmGmZeQjIvCzs3I0c_Rz9HO2YaZjJSWj8LN2YaZnp2Mws_Zhpmcm5GQj4vCz9mGmYuWkprCzsnJzc3Pzs7MzMvPzw~~&sent_http_access-control-allow-headers=Range%2C%20Origin%2C%20Content-Type%2C%20Accept%2C%20Content-Length&sent_http_access-control-allow-methods=GET%2C%20PUT%2C%20POST%2C%20DELETE%2C%20OPTIONS%2C%20HEAD&sent_http_access-control-allow-origin=*&sent_http_access-control-allow-credentials=true&sent_http_access-control-expose-headers=Content-Length%2C%20ETag%2C%20x-bs-request-id%2C%20x-pcs-request-id$百度网盘
+https://file.foxitreader.cn/file/Channel/edit/foxitbanner_Editor_FoxitInst.exe$福昕阅读器
+https://www.jianguoyun.com/static/exe/installer/NutstoreWindowsWPFInstaller.exe$坚果云
+https://pm.myapp.com/invc/xfspeed/qqsoftmgr/PCSoftDownloader_v1.1_webnew_1202@.exe$网易有道词典
+https://sunlogin.oray.com/product/personal-products?ici=sunlogin_navigation$向日葵
+https://artifact.lx.netease.com/download/ynote-electron/%E6%9C%89%E9%81%93%E4%BA%91%E7%AC%94%E8%AE%B0.exe$有道云笔记
+http://qttabbar.wdfiles.com/local--files/qttabbar1/QTTabBar_1043.zip$QTTabBar
+https://www.alcpu.com/CoreTemp/Core-Temp-setup.exe$Core Temp
+https://file.cdn.cqttech.com/xzdesktop/XZDesktop_4005_3.0.3.36.exe$Mamsds桌面倒计时软件	
+https://down.sandai.net/thunder11/XunLeiWebSetup11.3.14.1952gw.exe$迅雷 
+https://github.com/microsoft/PowerToys/releases/download/v0.61.1/PowerToysSetup-0.61.1-x64.exe$PowerToys
+https://public.ieway.cn/public/download/EVCapture_v4.2.2.exe$免费无水印录屏软件
+
+https://yangkairuei.github.io/$---开发类---
+https://download.oracle.com/java/18/latest/jdk-18_windows-x64_bin.exe$JDK18
+Git$https://github.com/git-for-windows/git/releases/download/v2.37.3.windows.1/Git-2.37.3-64-bit.exe
+https://az764295.vo.msecnd.net/stable/784b0177c56c607789f9638da7b6bf3230d47a8c/VSCodeUserSetup-x64-1.71.0.exe$Visual Studio Code
+https://dev.mysql.com/get/Downloads/MySQL-8.0/mysql-8.0.30-winx64-debug-test.zip$MySQL
+https://nodejs.org/dist/v18.8.0/node-v18.8.0-x64.msi$Node.js
+https://www.onlinedown.net/iopdfbhjl/535000?module=download&t=website$Navicat Premium
+https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.77-installer.msi$PuTTY
+https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-3.4.9.exe$Sourcetree
+https://dl.softmgr.qq.com/original/net_app/Xshell6_wm_6.0.0204.exe$Xshell
+https://typora-download.oss-cn-shanghai.aliyuncs.com/windows/typora-setup-x64.exe$Typora	
+https://download.mobatek.net/2212022060563542/MobaXterm_Installer_v22.1.zip$MobaXterm
