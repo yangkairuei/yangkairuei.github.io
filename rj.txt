@@ -52,3 +52,8 @@ https://dl.softmgr.qq.com/original/net_app/Xshell6_wm_6.0.0204.exe$Xshell
 https://typora-download.oss-cn-shanghai.aliyuncs.com/windows/typora-setup-x64.exe$Typora	
 https://download.mobatek.net/2212022060563542/MobaXterm_Installer_v22.1.zip$MobaXterm
 https://yangkairuei.github.io/$=============
+https://yangkairuei.github.io/$---系统类---
+https://software.download.prss.microsoft.com/dbazure/Win11_Chinese(Simplified)_x64v1.iso?t=128175db-f49a-4676-9b2b-ff80a3cedb14&e=1662290575&h=577fd86e0d67bcc846fc7c84661a243fe2aa8c22cafe90939db209b8909a8623$Win11
+https://software.download.prss.microsoft.com/dbazure/Win10_21H2_Chinese(Simplified)_x64.iso?t=69f29366-0d46-49ec-8898-6a54451351e6&e=1662290790&h=53b8c0017caae52a1cb6eca99f388a06779af3c971345ca1d0e53ec0a9f14a62$Win10
+https://software.download.prss.microsoft.com/dbazure/Win8.1_Chinese(Simplified)_x64.iso?t=22bad98e-5561-4195-9694-b41e614f3cf1&e=1662291031&h=db9d18591db579b9a2e6605d2db01014ef610a50433fbc0e6ad8d4b01faa07f8$Win8.1
+https://yangkairuei.github.io/$=============
